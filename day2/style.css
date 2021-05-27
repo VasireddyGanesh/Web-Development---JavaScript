@@ -79,6 +79,7 @@
     }  
     .nav-active{
         transform: translateX(0%);
+        right: 0;
     }
 }
 
